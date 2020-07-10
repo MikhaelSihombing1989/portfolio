@@ -1,0 +1,48 @@
+html {
+	position: relative;
+}
+
+body{
+	margin-bottom: 200px;
+}
+
+.jumbotron img {
+	width: 150px;
+	border: 5px solid #333;
+}
+
+hr {
+	width: 250px;
+	border-top: 3px solid #FF5733;
+}
+
+section {
+	min-height: 300px;
+}
+
+.Portfolio {
+	background-color: 	#E0FFFF;
+	min-height: 800px;
+}
+
+.pelatihan {
+	min-height: 600px;
+}
+
+.AHLI {
+	background-color: #B2FD86;
+	min-height: 500px;
+}
+
+.footer {
+	position: absolute;
+	width: 100%;
+	height: 200px;
+	background-color: #00180F;
+	padding-top: 20px;
+}
+
+.footer p {
+	color: #aaa;
+	font-size: 1.5em;
+}
